@@ -12,8 +12,8 @@ Created a JavaScript powered random password generator. User will initiate the a
 ## Site Demo Video
 Below is an animation of how the password generator functions when user input is numerical in initial prompt. 
 
-![screen-gif](./assets/images/demo.gif)
+![screen-gif](./Assets/images/demo.gif)
 
 Below is an animation of how the password generator functions when user input is NOT numerical in initial prompt - only four random characters are generated and displayed.
 
-![screen-gif](./assets/images/demo2.gif)
+![screen-gif](./Assets/images/demo2.gif)
